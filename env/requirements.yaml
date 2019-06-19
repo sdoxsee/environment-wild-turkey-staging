@@ -13,6 +13,3 @@ dependencies:
 - name: mykeycloak
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.23
-- name: quick
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
