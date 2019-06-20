@@ -12,7 +12,7 @@ dependencies:
   version: 0.0.1
 - name: mykeycloak
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.25
+  version: 0.0.26
 - name: quick
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
